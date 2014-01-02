@@ -8,6 +8,6 @@ processed/ICARE.log
 *.mflow
 /*.classpath
 /*.project
-
-
+.classpath
+.project
 .settings
