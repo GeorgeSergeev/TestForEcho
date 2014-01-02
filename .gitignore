@@ -1,0 +1,13 @@
+.studio/caches
+target/
+lib
+id_file
+processed/archive_for_batch_files
+processed/ICARE.log
+
+*.mflow
+/*.classpath
+/*.project
+
+
+.settings
