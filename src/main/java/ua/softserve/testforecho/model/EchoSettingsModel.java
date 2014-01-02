@@ -4,7 +4,7 @@ import java.io.Serializable;
 
 public class EchoSettingsModel implements Serializable{
 	/**
-	 * 
+	 * It is test
 	 */
 	private static final long serialVersionUID = -2491362139880192508L;
 	String message;
