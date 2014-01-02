@@ -8,7 +8,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 import ua.softserve.testforecho.model.EchoSettingsModel;
-
+//It is test transformer 
 public class RememberSettingsTransformer extends AbstractTransformer {
 	    @Override
 	    protected Object doTransform(Object src, String enc) {
